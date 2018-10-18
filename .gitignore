@@ -1,0 +1,15 @@
+
+
+##### Archivos y carpetas a los que no se debe dar seguimiento
+
+# Archivos del OS
+[Tt]humbs.db
+ehthumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Archivos temporales de Office
+~$*
